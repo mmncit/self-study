@@ -1,8 +1,10 @@
 - How do add something into the beginning of the array? How do you add something into the end of the array?
-```
-const myArr = ['a', 'b', 'c', 'd', 'e'];
+
+```js
+const myArr = ["a", "b", "c", "d", "e"];
 const extendedMyArr = ["start", ...myArr, "end"];
 ```
+
 ... is called the spread operator.
 
 - What is the difference btw let and var?
@@ -15,3 +17,5 @@ const extendedMyArr = ["start", ...myArr, "end"];
 - Explain settimeout in javascript?
 - What is the difference btw javascript and node.js?
 - Explain what is promise and what is a callback?
+
+[Reference Vs Value](Reference_Vs_Value/README.md)
