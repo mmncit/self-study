@@ -2,11 +2,11 @@
 
 1. A person's mindset is one of the key pillars of success. **With the right mindset, everyone can be successful**.
 
-2. A strong work ethic is critical since success is only possible through hard work.
+2. A **strong work ethic** is critical since success is only possible through hard work.
 
-3. An optimistic mindset increases your chances of success.
+3. An **optimistic mindset** increases your chances of success.
 
-4. Intrinsic motivation is critical to success because it's
+4. **Intrinsic motivation** is critical to success because it's
    literally what keeps people going.
 
 ![intrinsic motivation](intrinsic_motivation.jpeg)
