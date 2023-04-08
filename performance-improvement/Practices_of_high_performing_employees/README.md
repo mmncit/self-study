@@ -1,6 +1,6 @@
 ## Three keys: Talent, motivation, and support
 
-Performance is always a function of three things. Number one, it's a function of talent. Do we have the requisite skill to compete at the highest possible level?
+Performance is always a function of three things. Number one, **it's a function of talent**. Do we have the requisite skill to compete at the highest possible level?
 
 Number two, performance is always a function of motivation.
 Do people want to work hard? **Are there incentives to work hard?** Do they have **ownership** of what's going on around them? Do they feel like they are part of the team? Those motivational devices will help people feel good about plugging into work and doing a good job.
